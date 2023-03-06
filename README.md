@@ -1,5 +1,5 @@
 ## Olá, Eu me chamo Jonatas Abner
-- 💻 Sou estudante de Análise e Desenvolvimento de sistemas estou no 4º perído, com foco no Desenvolvimento Web
+- 💻 Sou estudante de Análise e Desenvolvimento de sistemas e estou no 3º período, com foco no Desenvolvimento Web
 - 🛹 Minhas experiências na área tech são somente com projetos e treinos pessoais, porém sigo em busca da minha primeira oportunidade como Desenvolvedor front-end.
 
 

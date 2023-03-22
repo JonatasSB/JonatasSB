@@ -1,4 +1,4 @@
-<h1 align=center>Olá, eu me chamo Jonatas Abner </h1>
+<h1 align=left>Olá, eu me chamo Jonatas Abner </h1>
 - 💻 Sou estudante de Análise e Desenvolvimento de Sistemas e estou no 3º período, com foco no Desenvolvimento Web<br/>
 - 🛹 Minhas experiências na área Tech são somente com projetos e treinos pessoais, porém sigo em busca da minha primeira oportunidade como Desenvolvedor front-end.
 
